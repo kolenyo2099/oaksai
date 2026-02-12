@@ -23,7 +23,7 @@ const config: QuartzConfig = {
      * This MUST match: https://<username>.github.io/<repo>/
      * No protocol, no trailing slash
      */
-    baseUrl: "github.com/kolenyo2099/oaksai",
+    baseUrl: "kolenyo2099.github.io/oaksai",
 
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
